@@ -14,3 +14,9 @@ Foi usada a biblioteca da ESP32 com a versão 1.0.4
  - Em Placa selecione "ESP32 Wrover Module"
  - Em Partion Scheme selecione "Huge APP (3MB No OTA)"
 
+# Resultado
+### Celular:
+![Imagem1](docs/olho1.jpg)![Imagem2](docs/olho2.jpg)
+
+### TV
+![Imagem2](docs/olho3.jpg)
